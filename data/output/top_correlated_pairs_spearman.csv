@@ -1,0 +1,11 @@
+variable_1,variable_2,method,correlation
+purchase_count,total_spent,spearman,0.7478063201735846
+income,total_spent,spearman,0.3412665054302065
+age,income,spearman,0.20472534518677682
+income,purchase_count,spearman,0.1393936616559606
+age,total_spent,spearman,0.06811587292618607
+age,purchase_count,spearman,0.027177751363633
+age,satisfaction_score,spearman,0.00933310389613784
+income,satisfaction_score,spearman,0.0061245778700648205
+purchase_count,satisfaction_score,spearman,-0.005606790041871599
+total_spent,satisfaction_score,spearman,0.0013214804077616349

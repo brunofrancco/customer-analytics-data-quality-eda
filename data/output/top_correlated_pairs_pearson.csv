@@ -1,0 +1,11 @@
+variable_1,variable_2,method,correlation
+age,total_spent,pearson,0.027997829226230786
+age,income,pearson,0.02518983178662756
+age,satisfaction_score,pearson,0.015209398420381484
+purchase_count,satisfaction_score,pearson,0.014823135009213778
+total_spent,satisfaction_score,pearson,0.014000748773909213
+purchase_count,total_spent,pearson,0.011599137534707754
+income,satisfaction_score,pearson,-0.010794765629408547
+income,total_spent,pearson,-0.009460992928630658
+income,purchase_count,pearson,-0.00802790066557825
+age,purchase_count,pearson,0.004270804842915827

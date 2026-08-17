@@ -1,0 +1,21 @@
+metric,value,status,description
+completeness_customer_id,100.0,OK,Percentual de valores preenchidos na coluna 'customer_id'.
+completeness_customer_name,100.0,OK,Percentual de valores preenchidos na coluna 'customer_name'.
+completeness_email,100.0,OK,Percentual de valores preenchidos na coluna 'email'.
+completeness_age,96.06,ATENÇÃO,Percentual de valores preenchidos na coluna 'age'.
+completeness_gender,100.0,OK,Percentual de valores preenchidos na coluna 'gender'.
+completeness_city,95.14,ATENÇÃO,Percentual de valores preenchidos na coluna 'city'.
+completeness_state,100.0,OK,Percentual de valores preenchidos na coluna 'state'.
+completeness_signup_date,100.0,OK,Percentual de valores preenchidos na coluna 'signup_date'.
+completeness_income,94.13,ATENÇÃO,Percentual de valores preenchidos na coluna 'income'.
+completeness_purchase_count,100.0,OK,Percentual de valores preenchidos na coluna 'purchase_count'.
+completeness_total_spent,100.0,OK,Percentual de valores preenchidos na coluna 'total_spent'.
+completeness_satisfaction_score,92.25,ATENÇÃO,Percentual de valores preenchidos na coluna 'satisfaction_score'.
+uniqueness_customer_id,96.57,CRÍTICO,Percentual de 'customer_id' únicos (5070 de 5250 registros; 180 duplicados).
+validity_age,94.59,CRÍTICO,Percentual de idades dentro do intervalo válido (18-100).
+validity_satisfaction_score,92.25,CRÍTICO,Percentual de notas de satisfação dentro do intervalo esperado (1-5).
+validity_income_positive,94.13,CRÍTICO,Percentual de rendas com valor positivo (> 0).
+consistency_gender_categories,1.07,CRÍTICO,Percentual de registros com categoria de gênero padronizada.
+consistency_state_format,42.3,CRÍTICO,Percentual de registros com UF padronizada em 2 letras.
+consistency_purchase_vs_spent,100.0,OK,Percentual de registros consistentes entre 'purchase_count' e 'total_spent' (não deveria haver gasto sem nenhuma compra registrada).
+accuracy_note,,N/A,"Accuracy não pôde ser medida diretamente: não há uma fonte de dados externa e confiável (golden record) para comparação. Em um cenário real, seria necessário validar contra um sistema de referência (ex.: Receita Federal para CPF/e-mail, correios para endereço)."

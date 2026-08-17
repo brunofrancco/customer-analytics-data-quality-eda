@@ -1,0 +1,680 @@
+record_1,record_2,name_1,name_2,similarity_score,possible_duplicate
+CUST004741,CUST004090,Yasmin Brito,Yasmin Brito,100.0,True
+CUST000276,CUST005046,Yuri Da Rocha,Yuri Da Rocha,100.0,True
+CUST004946,CUST001054,Aurora Macedo,Aurora Macedo,100.0,True
+CUST001834,CUST004168,Amanda Vargas,Amanda Vargas,100.0,True
+CUST002919,CUST002220,Ana Luiza Fernandes,Ana Luiza Fernandes,100.0,True
+CUST001021,CUST003276,Sra. Maria Julia Pimenta,Sra. Maria Júlia Pimenta,100.0,True
+CUST002897,CUST005056,Srta. Vitória Almeida,Srta. Vitória Almeida,100.0,True
+CUST000107,CUST005059,Stephany Dias,Stephany Dias,100.0,True
+CUST000363,CUST005002,Sra. Anna Liz Farias,Sra. Anna Liz Farias,100.0,True
+CUST002364,CUST003774,Theo Nascimento,Theo Nascimento,100.0,True
+CUST000531,CUST003049,Thiago Gomes,Thiago Gomes,100.0,True
+CUST000531,CUST004716,Thiago Gomes,Thiago Gomes,100.0,True
+CUST004063,CUST002929,Sofia Caldeira,Sofia Caldeira,100.0,True
+CUST002072,CUST003541,Samuel Sales,Samuel Sales,100.0,True
+CUST004352,CUST005022,Sr. Bento Silva,Sr. Bento Silva,100.0,True
+CUST001938,CUST005010,Sr. Anthony Gabriel Costela,Sr. Anthony Gabriel Costela,100.0,True
+CUST004590,CUST000107,Stephany Dias,Stephany Dias,100.0,True
+CUST004590,CUST005059,Stephany Dias,Stephany Dias,100.0,True
+CUST005019,CUST001810,Srta. Milena Souza,Srta. Milena Souza,100.0,True
+CUST002980,CUST003976,Stephany Sousa,Stephany Sousa,100.0,True
+CUST004897,CUST004394,Sabrina Pires,Sabrina Pires,100.0,True
+CUST001503,CUST005033,Srta. Ana Clara Cavalcante,Srta. Ana Clara Cavalcante,100.0,True
+CUST002953,CUST004137,Stephany Da Rocha,Stephany Da Rocha,100.0,True
+CUST002678,CUST004586,Sarah Teixeira,Sarah Teixeira,100.0,True
+CUST004714,CUST003594,Sr. Nathan Albuquerque,Sr. Nathan Albuquerque,100.0,True
+CUST002081,CUST001375,Stella Teixeira,Stella Teixeira,100.0,True
+CUST002027,CUST000338,Sophia Santos,Sophia Santos,100.0,True
+CUST000127,CUST004680,Ana Júlia Borges,Ana Júlia Borges,100.0,True
+CUST000132,CUST001570,Alexia Camargo,Alexia Camargo,100.0,True
+CUST000366,CUST000639,Ana Lívia Da Costa,Ana Lívia Da Costa,100.0,True
+CUST002858,CUST005026,Ana Vitória Aparecida,Ana Vitória Aparecida,100.0,True
+CUST004303,CUST000223,Ana Júlia Ferreira,Ana Júlia Ferreira,100.0,True
+CUST000406,CUST004856,Anthony Gabriel Da Luz,Anthony Gabriel Da Luz,100.0,True
+CUST003000,CUST003346,Asafe Moreira,Asafe Moreira,100.0,True
+CUST004332,CUST000656,Ágatha Da Rocha,Ágatha Da Rocha,100.0,True
+CUST004320,CUST000476,Amanda Pereira,Amanda Pereira,100.0,True
+CUST001807,CUST004031,Ana Julia Gonçalves,Ana Julia Gonçalves,100.0,True
+CUST004490,CUST005034,Ana Luiza Rezende,Ana Luiza Rezende,100.0,True
+CUST003257,CUST005065,Ana Lívia Marques,Ana Lívia Marques,100.0,True
+CUST003054,CUST005009,Antony Da Mata,Antony Da Mata,100.0,True
+CUST001358,CUST001727,Ana Julia Castro,Ana Júlia Castro,100.0,True
+CUST000867,CUST004481,Ana Júlia Da Mata,Ana Júlia Da Mata,100.0,True
+CUST003524,CUST000819,Antônio Gonçalves,Antônio Gonçalves,100.0,True
+CUST003837,CUST004778,Anna Liz Pires,Anna Liz Pires,100.0,True
+CUST000005,CUST002320,Arthur Gabriel Alves,Arthur Gabriel Alves,100.0,True
+CUST000359,CUST004289,Alice Silveira,Alice Silveira,100.0,True
+CUST000312,CUST000205,Antônio Teixeira,Antônio Teixeira,100.0,True
+CUST000785,CUST002288,Anthony Gabriel Sousa,Anthony Gabriel Sousa,100.0,True
+CUST004173,CUST002973,Ana Júlia Sá,Ana Julia Sá,100.0,True
+CUST003402,CUST003675,Aurora Caldeira,Aurora Caldeira,100.0,True
+CUST003453,CUST003402,Aurora Caldeira,Aurora Caldeira,100.0,True
+CUST003453,CUST003675,Aurora Caldeira,Aurora Caldeira,100.0,True
+CUST003925,CUST002506,Arthur Gabriel Rios,Arthur Gabriel Rios,100.0,True
+CUST001615,CUST004173,Ana Júlia Sá,Ana Júlia Sá,100.0,True
+CUST001615,CUST002973,Ana Júlia Sá,Ana Julia Sá,100.0,True
+CUST002220,CUST003420,Ana Luiza Fernandes,Ana Luiza Fernandes,100.0,True
+CUST002717,CUST003589,Ana Laura Barros,Ana Laura Barros,100.0,True
+CUST005063,CUST004564,Aylla Araújo,Aylla Araújo,100.0,True
+CUST001448,CUST004863,Alice Rios,Alice Rios,100.0,True
+CUST003748,CUST001172,Amanda Da Conceição,Amanda Da Conceição,100.0,True
+CUST004102,CUST001448,Alice Rios,Alice Rios,100.0,True
+CUST004102,CUST004863,Alice Rios,Alice Rios,100.0,True
+CUST004140,CUST002107,Anthony Gabriel Marques,Anthony Gabriel Marques,100.0,True
+CUST002548,CUST004187,Alexandre Cassiano,Alexandre Cassiano,100.0,True
+CUST000576,CUST001611,Sophie Casa Grande,Sophie Casa Grande,100.0,True
+CUST002079,CUST001763,Stella Nascimento,Stella Nascimento,100.0,True
+CUST000020,CUST005029,Sr. João Vitor Barros,Sr. João Vitor Barros,100.0,True
+CUST002216,CUST005032,Srta. Liz Nascimento,Srta. Liz Nascimento,100.0,True
+CUST002933,CUST002261,Sara Siqueira,Sara Siqueira,100.0,True
+CUST002586,CUST005066,Srta. Heloísa Das Neves,Srta. Heloísa Das Neves,100.0,True
+CUST000888,CUST003272,Rebeca Marques,Rebeca Marques,100.0,True
+CUST001136,CUST002375,Rafael Pimenta,Rafael Pimenta,100.0,True
+CUST004578,CUST005061,Renan Costela,Renan Costela,100.0,True
+CUST001072,CUST005038,Rafael Mendonça,Rafael Mendonça,100.0,True
+CUST001072,CUST004609,Rafael Mendonça,Rafael Mendonça,100.0,True
+CUST005038,CUST004609,Rafael Mendonça,Rafael Mendonça,100.0,True
+CUST000743,CUST002749,Ravy Sousa,Ravy Sousa,100.0,True
+CUST000572,CUST005021,Rodrigo Freitas,Rodrigo Freitas,100.0,True
+CUST001053,CUST000193,Rael Da Luz,Rael Da Luz,100.0,True
+CUST002455,CUST005049,Ravi Santos,Ravi Santos,100.0,True
+CUST003572,CUST000088,Beatriz Aragão,Beatriz Aragão,100.0,True
+CUST001765,CUST001070,Caleb Guerra,Caleb Guerra,100.0,True
+CUST003225,CUST000924,Cecilia Sá,Cecília Sá,100.0,True
+CUST003004,CUST001057,Cecília Viana,Cecilia Viana,100.0,True
+CUST001945,CUST003730,Beatriz Silveira,Beatriz Silveira,100.0,True
+CUST000019,CUST005025,Bernardo Aparecida,Bernardo Aparecida,100.0,True
+CUST002827,CUST003317,Bianca Duarte,Bianca Duarte,100.0,True
+CUST001344,CUST000665,Benício Das Neves,Benício Das Neves,100.0,True
+CUST001588,CUST001161,Benjamim Cavalcanti,Benjamim Cavalcanti,100.0,True
+CUST002676,CUST003967,Beatriz Mendonça,Beatriz Mendonça,100.0,True
+CUST004804,CUST005018,Beatriz Gomes,Beatriz Gomes,100.0,True
+CUST002317,CUST000358,Beatriz Moura,Beatriz Moura,100.0,True
+CUST000487,CUST001199,Benicio Rocha,Benicio Rocha,100.0,True
+CUST000581,CUST005036,Anna Liz Freitas,Anna Liz Freitas,100.0,True
+CUST000105,CUST003863,Ana Cecília Pinto,Ana Cecília Pinto,100.0,True
+CUST001775,CUST004392,Bárbara Barros,Bárbara Barros,100.0,True
+CUST001047,CUST001449,Brenda Oliveira,Brenda Oliveira,100.0,True
+CUST004757,CUST005013,Benicio Freitas,Benicio Freitas,100.0,True
+CUST000779,CUST003729,Rafael Ramos,Rafael Ramos,100.0,True
+CUST004958,CUST002422,Ryan Aragão,Ryan Aragão,100.0,True
+CUST001806,CUST002876,Raquel Da Rosa,Raquel Da Rosa,100.0,True
+CUST002078,CUST002411,Rafael Aparecida,Rafael Aparecida,100.0,True
+CUST002334,CUST003616,Rebeca Costa,Rebeca Costa,100.0,True
+CUST002095,CUST003250,Rael Porto,Rael Porto,100.0,True
+CUST004819,CUST002073,Raul Da Cruz,Raul Da Cruz,100.0,True
+CUST002265,CUST001283,Rodrigo Santos,Rodrigo Santos,100.0,True
+CUST001035,CUST004065,Rael Pinto,Rael Pinto,100.0,True
+CUST004116,CUST005014,Raul Albuquerque,Raul Albuquerque,100.0,True
+CUST000252,CUST003875,Raquel Cunha,Raquel Cunha,100.0,True
+CUST002441,CUST002952,Clarice Oliveira,Clarice Oliveira,100.0,True
+CUST001510,CUST001884,Camila Vargas,Camila Vargas,100.0,True
+CUST001432,CUST005027,Camila Novaes,Camila Novaes,100.0,True
+CUST002494,CUST003183,Caroline Vieira,Caroline Vieira,100.0,True
+CUST001406,CUST000664,Caroline Pimenta,Caroline Pimenta,100.0,True
+CUST004399,CUST002428,Davi Lucas Andrade,Davi Lucas Andrade,100.0,True
+CUST000451,CUST000957,Clara Azevedo,Clara Azevedo,100.0,True
+CUST003714,CUST004406,Cauê Silveira,Cauê Silveira,100.0,True
+CUST003148,CUST004581,Clara Casa Grande,Clara Casa Grande,100.0,True
+CUST005008,CUST003816,Cauã Barbosa,Cauã Barbosa,100.0,True
+CUST004012,CUST002928,Cauã Novais,Cauã Novais,100.0,True
+CUST001240,CUST004641,Cecília Nunes,Cecilia Nunes,100.0,True
+CUST003600,CUST005007,Catarina Moraes,Catarina Moraes,100.0,True
+CUST001313,CUST002816,Clara Campos,Clara Campos,100.0,True
+CUST001969,CUST000035,Cecilia Da Luz,Cecília Da Luz,100.0,True
+CUST001504,CUST002979,Cecilia Silva,Cecilia Silva,100.0,True
+CUST000039,CUST005039,Cecilia Moraes,Cecilia Moraes,100.0,True
+CUST001034,CUST003038,Cecilia Cirino,Cecília Cirino,100.0,True
+CUST002228,CUST004086,Cauê Rodrigues,Cauê Rodrigues,100.0,True
+CUST001279,CUST005008,Cauã Barbosa,Cauã Barbosa,100.0,True
+CUST001279,CUST003816,Cauã Barbosa,Cauã Barbosa,100.0,True
+CUST004133,CUST004196,Camila Lopes,Camila Lopes,100.0,True
+CUST000396,CUST002202,Caroline Borges,Caroline Borges,100.0,True
+CUST004730,CUST003517,Camila Mendonça,Camila Mendonça,100.0,True
+CUST003249,CUST000778,Cauê Farias,Cauê Farias,100.0,True
+CUST001688,CUST000928,Cecília Vieira,Cecilia Vieira,100.0,True
+CUST002636,CUST002713,Catarina Alves,Catarina Alves,100.0,True
+CUST003018,CUST005069,Dr. Mathias Da Conceição,Dr. Mathias Da Conceição,100.0,True
+CUST002213,CUST003191,Davi Lucas Moraes,Davi Lucas Moraes,100.0,True
+CUST002213,CUST005005,Davi Lucas Moraes,Davi Lucas Moraes,100.0,True
+CUST004088,CUST005040,Danilo Aragão,Danilo Aragão,100.0,True
+CUST002514,CUST001324,Diogo Nunes,Diogo Nunes,100.0,True
+CUST001685,CUST005037,Dr. Bryan Cunha,Dr. Bryan Cunha,100.0,True
+CUST004698,CUST003081,Dr. Matteo Nascimento,Dr. Matteo Nascimento,100.0,True
+CUST004837,CUST005020,Dr. Diego Da Cruz,Dr. Diego Da Cruz,100.0,True
+CUST000388,CUST005012,Dr. João Guilherme Albuquerque,Dr. João Guilherme Albuquerque,100.0,True
+CUST001679,CUST003532,Davi Lucas Oliveira,Davi Lucas Oliveira,100.0,True
+CUST003386,CUST005017,Dr. Thomas Santos,Dr. Thomas Santos,100.0,True
+CUST000216,CUST005048,Dr. Davi Luiz Martins,Dr. Davi Luiz Martins,100.0,True
+CUST002783,CUST004205,Diogo Alves,Diogo Alves,100.0,True
+CUST002783,CUST000179,Diogo Alves,Diogo Alves,100.0,True
+CUST003056,CUST005001,Davi Lucas Da Rosa,Davi Lucas Da Rosa,100.0,True
+CUST002921,CUST000285,Dante Novais,Dante Novais,100.0,True
+CUST004788,CUST002324,Davi Lucca Garcia,Davi Lucca Garcia,100.0,True
+CUST000559,CUST005054,Dr. Davi Lucca Peixoto,Dr. Davi Lucca Peixoto,100.0,True
+CUST002925,CUST005024,Dra. Bella Santos,Dra. Bella Santos,100.0,True
+CUST004889,CUST003030,Pedro Miguel Barros,Pedro Miguel Barros,100.0,True
+CUST003843,CUST002590,Pedro Aparecida,Pedro Aparecida,100.0,True
+CUST001987,CUST001857,Pedro Da Rocha,Pedro Da Rocha,100.0,True
+CUST000936,CUST003666,Pedro Cirino,Pedro Cirino,100.0,True
+CUST000643,CUST002932,Pedro Miguel Teixeira,Pedro Miguel Teixeira,100.0,True
+CUST000642,CUST000865,Rael Freitas,Rael Freitas,100.0,True
+CUST003796,CUST004610,Olivia Souza,Olívia Souza,100.0,True
+CUST001642,CUST004917,Olivia Rezende,Olívia Rezende,100.0,True
+CUST000328,CUST000643,Pedro Miguel Teixeira,Pedro Miguel Teixeira,100.0,True
+CUST000328,CUST002932,Pedro Miguel Teixeira,Pedro Miguel Teixeira,100.0,True
+CUST001629,CUST000958,Pedro Henrique Da Mota,Pedro Henrique Da Mota,100.0,True
+CUST003398,CUST004068,Otávio Cavalcante,Otávio Cavalcante,100.0,True
+CUST002787,CUST003781,Olivia Carvalho,Olívia Carvalho,100.0,True
+CUST004669,CUST000077,Olívia Da Cruz,Olívia Da Cruz,100.0,True
+CUST004772,CUST002655,Olívia Novais,Olívia Novais,100.0,True
+CUST000585,CUST001433,Olivia Sampaio,Olívia Sampaio,100.0,True
+CUST000339,CUST003009,Oliver Mendes,Oliver Mendes,100.0,True
+CUST002986,CUST003882,Olívia Cunha,Olívia Cunha,100.0,True
+CUST001747,CUST001355,Marcela Ferreira,Marcela Ferreira,100.0,True
+CUST001492,CUST005058,Noah Andrade,Noah Andrade,100.0,True
+CUST002853,CUST003211,Nina Lopes,Nina Lopes,100.0,True
+CUST000320,CUST000741,Noah Sales,Noah Sales,100.0,True
+CUST003057,CUST000295,Nicolas Machado,Nicolas Machado,100.0,True
+CUST001201,CUST002958,Nathan Machado,Nathan Machado,100.0,True
+CUST000203,CUST004166,Nina Leão,Nina Leão,100.0,True
+CUST004638,CUST003467,Esther Souza,Esther Souza,100.0,True
+CUST004638,CUST003595,Esther Souza,Esther Souza,100.0,True
+CUST003467,CUST003595,Esther Souza,Esther Souza,100.0,True
+CUST003214,CUST002333,Emanuelly Macedo,Emanuelly Macedo,100.0,True
+CUST003175,CUST004104,Felipe Da Luz,Felipe Da Luz,100.0,True
+CUST002198,CUST003853,Emanuelly Santos,Emanuelly Santos,100.0,True
+CUST001648,CUST004111,Eloah Sá,Eloah Sá,100.0,True
+CUST003301,CUST002192,Enzo Gabriel Barbosa,Enzo Gabriel Barbosa,100.0,True
+CUST001767,CUST001697,Emanuelly Melo,Emanuelly Melo,100.0,True
+CUST002502,CUST000560,Eduardo Castro,Eduardo Castro,100.0,True
+CUST003315,CUST000561,Eloah Silveira,Eloah Silveira,100.0,True
+CUST002176,CUST005055,Dra. Bruna Abreu,Dra. Bruna Abreu,100.0,True
+CUST003191,CUST005005,Davi Lucas Moraes,Davi Lucas Moraes,100.0,True
+CUST004205,CUST000179,Diogo Alves,Diogo Alves,100.0,True
+CUST003698,CUST004221,Dra. Valentina Da Luz,Dra. Valentina Da Luz,100.0,True
+CUST000167,CUST005035,Dr. Yuri Cardoso,Dr. Yuri Cardoso,100.0,True
+CUST001672,CUST000540,Emanuel Fonseca,Emanuel Fonseca,100.0,True
+CUST004395,CUST003722,Emilly Marques,Emilly Marques,100.0,True
+CUST004982,CUST003264,Gabrielly Das Neves,Gabrielly Das Neves,100.0,True
+CUST004067,CUST003727,Gabriel Azevedo,Gabriel Azevedo,100.0,True
+CUST004346,CUST004501,Heloísa Pires,Heloísa Pires,100.0,True
+CUST000850,CUST001687,Hellena Jesus,Hellena Jesus,100.0,True
+CUST000813,CUST005064,Gabrielly Silva,Gabrielly Silva,100.0,True
+CUST001166,CUST002890,Gabriela Da Rocha,Gabriela Da Rocha,100.0,True
+CUST002912,CUST002712,Gabriela Castro,Gabriela Castro,100.0,True
+CUST000432,CUST004060,Gustavo Henrique Pastor,Gustavo Henrique Pastor,100.0,True
+CUST004213,CUST005023,Giovanna Ferreira,Giovanna Ferreira,100.0,True
+CUST004213,CUST002689,Giovanna Ferreira,Giovanna Ferreira,100.0,True
+CUST001713,CUST001434,Gabrielly Sales,Gabrielly Sales,100.0,True
+CUST002620,CUST004067,Gabriel Azevedo,Gabriel Azevedo,100.0,True
+CUST002620,CUST003727,Gabriel Azevedo,Gabriel Azevedo,100.0,True
+CUST005023,CUST002689,Giovanna Ferreira,Giovanna Ferreira,100.0,True
+CUST002355,CUST004684,Guilherme Cavalcanti,Guilherme Cavalcanti,100.0,True
+CUST002818,CUST000374,Fernando Cavalcante,Fernando Cavalcante,100.0,True
+CUST002119,CUST004711,Felipe Castro,Felipe Castro,100.0,True
+CUST001247,CUST003197,Felipe Duarte,Felipe Duarte,100.0,True
+CUST002361,CUST005004,Gael Alves,Gael Alves,100.0,True
+CUST003310,CUST001773,Guilherme Da Cruz,Guilherme Da Cruz,100.0,True
+CUST000047,CUST001753,Manuela Camargo,Manuela Camargo,100.0,True
+CUST002619,CUST003999,Maria Luísa Da Rocha,Maria Luísa Da Rocha,100.0,True
+CUST001749,CUST000459,Mirella Guerra,Mirella Guerra,100.0,True
+CUST003020,CUST003344,Melina Sousa,Melina Sousa,100.0,True
+CUST002235,CUST005016,Melissa Costa,Melissa Costa,100.0,True
+CUST000506,CUST000883,Maria Vitória Da Rocha,Maria Vitória Da Rocha,100.0,True
+CUST000473,CUST002140,Marcela Novais,Marcela Novais,100.0,True
+CUST000822,CUST003275,Manuella Sampaio,Manuella Sampaio,100.0,True
+CUST004649,CUST001479,Matheus Cassiano,Matheus Cassiano,100.0,True
+CUST003236,CUST005067,Maria Vitória Costela,Maria Vitória Costela,100.0,True
+CUST000202,CUST000318,Maria Luísa Farias,Maria Luísa Farias,100.0,True
+CUST004731,CUST002462,Maria Clara Aragão,Maria Clara Aragão,100.0,True
+CUST002217,CUST004675,Maria Liz Pastor,Maria Liz Pastor,100.0,True
+CUST001902,CUST000701,Isadora Castro,Isadora Castro,100.0,True
+CUST003838,CUST004909,Isabel Cunha,Isabel Cunha,100.0,True
+CUST003838,CUST004989,Isabel Cunha,Isabel Cunha,100.0,True
+CUST004532,CUST005070,Isis Jesus,Isis Jesus,100.0,True
+CUST003779,CUST000424,Isaac Fonseca,Isaac Fonseca,100.0,True
+CUST003351,CUST000805,Isadora Rodrigues,Isadora Rodrigues,100.0,True
+CUST005068,CUST004404,Isaque Silva,Isaque Silva,100.0,True
+CUST003132,CUST002060,Isabel Peixoto,Isabel Peixoto,100.0,True
+CUST004049,CUST005053,Isabella Oliveira,Isabella Oliveira,100.0,True
+CUST004355,CUST001265,Isabela Ferreira,Isabela Ferreira,100.0,True
+CUST000596,CUST005068,Isaque Silva,Isaque Silva,100.0,True
+CUST000596,CUST004404,Isaque Silva,Isaque Silva,100.0,True
+CUST003946,CUST004226,Igor Brito,Igor Brito,100.0,True
+CUST004157,CUST002381,Isis Carvalho,Ísis Carvalho,100.0,True
+CUST000458,CUST002610,Heloísa Jesus,Heloísa Jesus,100.0,True
+CUST001077,CUST005028,Hadassa Monteiro,Hadassa Monteiro,100.0,True
+CUST004341,CUST003327,Henrique Jesus,Henrique Jesus,100.0,True
+CUST001215,CUST004952,Hadassa Cirino,Hadassa Cirino,100.0,True
+CUST004368,CUST003879,Hadassa Dias,Hadassa Dias,100.0,True
+CUST001205,CUST002585,Hellena Cardoso,Hellena Cardoso,100.0,True
+CUST003162,CUST005045,Heloisa Sales,Heloisa Sales,100.0,True
+CUST000698,CUST002785,Milena Da Cruz,Milena Da Cruz,100.0,True
+CUST000875,CUST004329,Mateus Martins,Mateus Martins,100.0,True
+CUST004509,CUST003941,Matteo Correia,Matteo Correia,100.0,True
+CUST000391,CUST002259,Maria Câmara,Maria Câmara,100.0,True
+CUST003109,CUST000208,Mariah Nascimento,Mariah Nascimento,100.0,True
+CUST000988,CUST000889,Maria Cavalcante,Maria Cavalcante,100.0,True
+CUST004733,CUST000542,Maitê Rocha,Maitê Rocha,100.0,True
+CUST002477,CUST004413,Maria Eduarda Rocha,Maria Eduarda Rocha,100.0,True
+CUST000352,CUST002026,Matheus Da Conceição,Matheus Da Conceição,100.0,True
+CUST001662,CUST005011,Marcos Vinicius Rezende,Marcos Vinicius Rezende,100.0,True
+CUST000960,CUST001087,Maria Cecília Da Cunha,Maria Cecília Da Cunha,100.0,True
+CUST002540,CUST003053,Maria Luísa Porto,Maria Luísa Porto,100.0,True
+CUST001143,CUST001461,Juliana Siqueira,Juliana Siqueira,100.0,True
+CUST002271,CUST000180,Joaquim Melo,Joaquim Melo,100.0,True
+CUST000590,CUST000197,João Pedro Da Costa,João Pedro Da Costa,100.0,True
+CUST004331,CUST002748,João Guilherme Barros,João Guilherme Barros,100.0,True
+CUST002305,CUST004800,João Pedro Machado,João Pedro Machado,100.0,True
+CUST002784,CUST001792,João Da Costa,João Da Costa,100.0,True
+CUST000194,CUST002328,João Guilherme Vargas,João Guilherme Vargas,100.0,True
+CUST001556,CUST005050,Jade Abreu,Jade Abreu,100.0,True
+CUST001200,CUST000154,José Pedro Cavalcanti,José Pedro Cavalcanti,100.0,True
+CUST002218,CUST005060,Isabella Pinto,Isabella Pinto,100.0,True
+CUST001811,CUST002206,Joana Fonseca,Joana Fonseca,100.0,True
+CUST000970,CUST002282,João Vitor Sousa,João Vitor Sousa,100.0,True
+CUST000249,CUST001757,Joaquim Sá,Joaquim Sá,100.0,True
+CUST001883,CUST001274,Isis Garcia,Ísis Garcia,100.0,True
+CUST004358,CUST004686,Isaac Costela,Isaac Costela,100.0,True
+CUST000926,CUST001958,Isabella Nunes,Isabella Nunes,100.0,True
+CUST004909,CUST004989,Isabel Cunha,Isabel Cunha,100.0,True
+CUST004260,CUST001864,Isaque Moreira,Isaque Moreira,100.0,True
+CUST001724,CUST004387,Ian Machado,Ian Machado,100.0,True
+CUST004663,CUST004025,Maitê Ramos,Maitê Ramos,100.0,True
+CUST001182,CUST001881,Matteo Barbosa,Matteo Barbosa,100.0,True
+CUST004576,CUST005041,Matheus Farias,Matheus Farias,100.0,True
+CUST004152,CUST003388,Matheus Lima,Matheus Lima,100.0,True
+CUST001155,CUST004649,Matheus Cassiano,Matheus Cassiano,100.0,True
+CUST001155,CUST001479,Matheus Cassiano,Matheus Cassiano,100.0,True
+CUST002557,CUST001576,Marcelo Moraes,Marcelo Moraes,100.0,True
+CUST003238,CUST002425,Marcelo Carvalho,Marcelo Carvalho,100.0,True
+CUST000603,CUST001657,Mathias Melo,Mathias Melo,100.0,True
+CUST001049,CUST001120,Maria Clara Nogueira,Maria Clara Nogueira,100.0,True
+CUST004212,CUST001597,Luiz Henrique Montenegro,Luiz Henrique Montenegro,100.0,True
+CUST000956,CUST002568,Liz Da Mata,Liz Da Mata,100.0,True
+CUST001024,CUST005044,Letícia Pimenta,Letícia Pimenta,100.0,True
+CUST001040,CUST002866,Maria Vitória Santos,Maria Vitória Santos,100.0,True
+CUST003493,CUST001182,Matteo Barbosa,Matteo Barbosa,100.0,True
+CUST003493,CUST001881,Matteo Barbosa,Matteo Barbosa,100.0,True
+CUST001383,CUST004212,Luiz Henrique Montenegro,Luiz Henrique Montenegro,100.0,True
+CUST001383,CUST001597,Luiz Henrique Montenegro,Luiz Henrique Montenegro,100.0,True
+CUST000679,CUST000118,Liz Pimenta,Liz Pimenta,100.0,True
+CUST003511,CUST005043,Liz Sales,Liz Sales,100.0,True
+CUST002417,CUST002418,Luan Da Conceição,Luan Da Conceição,100.0,True
+CUST004510,CUST000566,Luana Viana,Luana Viana,100.0,True
+CUST003536,CUST005047,Letícia Fonseca,Letícia Fonseca,100.0,True
+CUST003665,CUST004866,Lara Pereira,Lara Pereira,100.0,True
+CUST003665,CUST005006,Lara Pereira,Lara Pereira,100.0,True
+CUST001797,CUST001216,Lara Machado,Lara Machado,100.0,True
+CUST001258,CUST005052,Juan Cardoso,Juan Cardoso,100.0,True
+CUST004469,CUST001233,Josué Ribeiro,Josué Ribeiro,100.0,True
+CUST002537,CUST002301,Kevin Melo,Kevin Melo,100.0,True
+CUST001330,CUST003886,Kamilly Guerra,Kamilly Guerra,100.0,True
+CUST002549,CUST000382,Kaique Porto,Kaique Porto,100.0,True
+CUST001991,CUST001863,João Barros,João Barros,100.0,True
+CUST004644,CUST001379,Juan Da Luz,Juan Da Luz,100.0,True
+CUST003725,CUST004021,João Miguel Almeida,João Miguel Almeida,100.0,True
+CUST004876,CUST002439,Josué Da Cruz,Josué Da Cruz,100.0,True
+CUST002924,CUST002344,Juliana Cassiano,Juliana Cassiano,100.0,True
+CUST004265,CUST005062,José Pedro Costa,José Pedro Costa,100.0,True
+CUST000938,CUST004380,Juan Da Cruz,Juan Da Cruz,100.0,True
+CUST002760,CUST002856,Josué Moreira,Josué Moreira,100.0,True
+CUST004866,CUST005006,Lara Pereira,Lara Pereira,100.0,True
+CUST002674,CUST003035,Liam Garcia,Liam Garcia,100.0,True
+CUST003235,CUST000702,Luara Correia,Luara Correia,100.0,True
+CUST003710,CUST005057,Luan Araújo,Luan Araújo,100.0,True
+CUST004036,CUST004534,Lorenzo Sales,Lorenzo Sales,100.0,True
+CUST004293,CUST002212,Luiz Fernando Pereira,Luiz Fernando Pereira,100.0,True
+CUST004113,CUST001267,Lucas Gabriel Machado,Lucas Gabriel Machado,100.0,True
+CUST000288,CUST000346,Letícia Pastor,Letícia Pastor,100.0,True
+CUST004849,CUST001364,Leandro Silva,Leandro Silva,100.0,True
+CUST001544,CUST002898,Luara Novaes,Luara Novaes,100.0,True
+CUST003006,CUST002965,Larissa Cunha,Larissa Cunha,100.0,True
+CUST004945,CUST005030,Letícia Oliveira,Letícia Oliveira,100.0,True
+CUST002480,CUST000716,Laura Barbosa,Laura Barbosa,100.0,True
+CUST002113,CUST000718,Lara Pinto,Lara Pinto,100.0,True
+CUST002132,CUST004403,Luiz Gustavo Cardoso,Luiz Gustavo Cardoso,100.0,True
+CUST000729,CUST000288,Letícia Pastor,Letícia Pastor,100.0,True
+CUST000729,CUST000346,Letícia Pastor,Letícia Pastor,100.0,True
+CUST003019,CUST002193,Lucca Nogueira,Lucca Nogueira,100.0,True
+CUST002611,CUST003531,Luara Campos,Luara Campos,100.0,True
+CUST002611,CUST001026,Luara Campos,Luara Campos,100.0,True
+CUST003606,CUST001920,Laís Da Luz,Laís Da Luz,100.0,True
+CUST004424,CUST005015,Luara Brito,Luara Brito,100.0,True
+CUST003531,CUST001026,Luara Campos,Luara Campos,100.0,True
+CUST004337,CUST003045,Luna Da Luz,Luna Da Luz,100.0,True
+CUST000608,CUST002935,Lucas Gabriel Carvalho,Lucas Gabriel Carvalho,100.0,True
+CUST003491,CUST003210,Lucca Lima,Lucca Lima,100.0,True
+CUST004159,CUST004685,Lorena Barros,Lorena Barros,100.0,True
+CUST004755,CUST000679,Liz Pimenta,Liz Pimenta,100.0,True
+CUST004755,CUST000118,Liz Pimenta,Liz Pimenta,100.0,True
+CUST000173,CUST004539,Luna Martins,Luna Martins,100.0,True
+CUST002184,CUST004795,Luiza Vargas,Luiza Vargas,100.0,True
+CUST002409,CUST003255,Larissa Costela,Larissa Costela,100.0,True
+CUST003408,CUST004769,Laura Siqueira,Laura Siqueira,100.0,True
+CUST002122,CUST004658,Lorenzo Freitas,Lorenzo Freitas,100.0,True
+CUST004858,CUST004651,Luiz Felipe Ramos,Luiz Felipe Ramos,100.0,True
+CUST001956,CUST004747,Luan Freitas,Luan Freitas,100.0,True
+CUST004839,CUST000864,Lucas Ramos,Lucas Ramos,100.0,True
+CUST002062,CUST003216,Luiz Henrique Barros,Luiz Henrique Barros,100.0,True
+CUST001191,CUST000880,Levi Jesus,Levi Jesus,100.0,True
+CUST000651,CUST001542,Laura Sales,Laura Sales,100.0,True
+CUST002688,CUST001569,Vinícius Melo,Vinícius Melo,100.0,True
+CUST004172,CUST001661,Yago Nunes,Yago Nunes,100.0,True
+CUST003221,CUST004199,Yago Costa,Yago Costa,100.0,True
+CUST002919,CUST003420,Ana Luiza Fernandes,Ana Luiza Fernandes,100.0,True
+CUST002806,CUST005031,Valentim Dias,Valentim Dias,100.0,True
+CUST004493,CUST000830,Vitor Gabriel Gonçalves,Vitor Gabriel Gonçalves,100.0,True
+CUST001594,CUST001581,Vitor Abreu,Vitor Abreu,100.0,True
+CUST004302,CUST002402,Vitor Hugo Montenegro,Vitor Hugo Montenegro,100.0,True
+CUST002459,CUST002654,Vitor Hugo Oliveira,Vitor Hugo Oliveira,100.0,True
+CUST003049,CUST004716,Thiago Gomes,Thiago Gomes,100.0,True
+CUST003840,CUST002641,Vicente Vargas,Vicente Vargas,100.0,True
+CUST002989,CUST004118,Valentim Vasconcelos,Valentim Vasconcelos,100.0,True
+CUST003672,CUST000063,Vitória Pereira,Vitória Pereira,100.0,True
+CUST000271,CUST005051,Valentina Peixoto,Valentina Peixoto,100.0,True
+CUST004799,CUST002295,Thales Sá,Thales Sá,100.0,True
+CUST004164,CUST005003,Theodoro Rodrigues,Theodoro Rodrigues,100.0,True
+CUST004164,CUST002471,Theodoro Rodrigues,Theodoro Rodrigues,100.0,True
+CUST004910,CUST004261,Theodoro Das Neves,Theodoro Das Neves,100.0,True
+CUST000051,CUST004673,Thiago Caldeira,Thiago Caldeira,100.0,True
+CUST005003,CUST002471,Theodoro Rodrigues,Theodoro Rodrigues,100.0,True
+CUST002164,CUST000074,Theo Da Costa,Théo Da Costa,100.0,True
+CUST001147,CUST004056,Ana Vitória Monteiro,Ana Vitória Monteiro,100.0,True
+CUST000840,CUST002601,Ana Lívia Brito,Ana Lívia Brito,100.0,True
+CUST004767,CUST004927,Antony Santos,Antony Santos,100.0,True
+CUST002916,CUST000605,Allana Fogaça,Allana Fogaça,100.0,True
+CUST004961,CUST001784,Ana Beatriz Montenegro,Ana Beatriz Montenegro,100.0,True
+CUST000280,CUST004145,Ana Júlia Da Cunha,Ana Julia Da Cunha,100.0,True
+CUST002828,CUST000683,Arthur Barros,Arthur Barros,100.0,True
+CUST002387,CUST003628,Ana Cecília Carvalho,Ana Cecília Carvalho,100.0,True
+CUST001982,CUST000615,Asafe Dias,Asafe Dias,100.0,True
+CUST001123,CUST000406,Anthony Gabriel Da Luz,Anthony Gabriel Da Luz,100.0,True
+CUST001123,CUST004856,Anthony Gabriel Da Luz,Anthony Gabriel Da Luz,100.0,True
+CUST004882,CUST003099,Ana Luiza Cardoso,Ana Luiza Cardoso,100.0,True
+CUST002886,CUST003733,Alícia Camargo,Alícia Camargo,100.0,True
+CUST001431,CUST002533,Srta. Maria Vitória Macedo,Sra. Maria Vitória Macedo,98.04,True
+CUST003281,CUST000141,Srta. Isabella Castro,Srta. Isabela Castro,97.56,True
+CUST003485,CUST005002,Sra. Ana Liz Farias,Sra. Anna Liz Farias,97.44,True
+CUST000835,CUST000352,Mateus Da Conceição,Matheus Da Conceição,97.44,True
+CUST000835,CUST002026,Mateus Da Conceição,Matheus Da Conceição,97.44,True
+CUST003485,CUST000363,Sra. Ana Liz Farias,Sra. Anna Liz Farias,97.44,True
+CUST002600,CUST002036,Isabella Montenegro,Isabela Montenegro,97.3,True
+CUST002570,CUST002801,Maria Casa Grande,Marina Casa Grande,97.14,True
+CUST002424,CUST001974,Rafael Cavalcanti,Rafaela Cavalcanti,97.14,True
+CUST000256,CUST003343,Isabella Silveira,Isabela Silveira,96.97,True
+CUST002727,CUST001090,Sra. Isabela Lima,Sra. Isabel Lima,96.97,True
+CUST005053,CUST004020,Isabella Oliveira,Isabela Oliveira,96.97,True
+CUST001272,CUST000889,Mariah Cavalcante,Maria Cavalcante,96.97,True
+CUST004725,CUST001304,Anna Liz Cassiano,Ana Liz Cassiano,96.97,True
+CUST000988,CUST001272,Maria Cavalcante,Mariah Cavalcante,96.97,True
+CUST004049,CUST004020,Isabella Oliveira,Isabela Oliveira,96.97,True
+CUST001580,CUST003251,Aylla Cavalcante,Ayla Cavalcante,96.77,True
+CUST000821,CUST003755,Brayan Aparecida,Bryan Aparecida,96.77,True
+CUST003041,CUST000375,Ana Liz Pimenta,Anna Liz Pimenta,96.77,True
+CUST002629,CUST001212,Mariana Silveira,Marina Silveira,96.77,True
+CUST003349,CUST003597,Manuela Da Cruz,Manuella Da Cruz,96.77,True
+CUST002971,CUST000581,Ana Liz Freitas,Anna Liz Freitas,96.77,True
+CUST002971,CUST005036,Ana Liz Freitas,Anna Liz Freitas,96.77,True
+CUST001635,CUST001064,Anna Liz Da Mota,Ana Liz Da Mota,96.77,True
+CUST004587,CUST001800,Isabella Novais,Isabela Novais,96.55,True
+CUST000053,CUST002167,Daniela Freitas,Daniel Freitas,96.55,True
+CUST001854,CUST002938,Manuella Da Paz,Manuela Da Paz,96.55,True
+CUST003421,CUST003164,Isabela Mendes,Isabella Mendes,96.55,True
+CUST001102,CUST003653,Anthony Pimenta,Antony Pimenta,96.55,True
+CUST002037,CUST004778,Ana Liz Pires,Anna Liz Pires,96.3,True
+CUST002037,CUST003837,Ana Liz Pires,Anna Liz Pires,96.3,True
+CUST000913,CUST000043,Mateus Garcia,Matheus Garcia,96.3,True
+CUST003996,CUST000826,Maria Freitas,Mariah Freitas,96.3,True
+CUST003937,CUST002405,Daniela Vieira,Daniel Vieira,96.3,True
+CUST000150,CUST004343,Lara Azevedo,Luara Azevedo,96.0,True
+CUST003287,CUST004189,José Costela,Josué Costela,96.0,True
+CUST003626,CUST000605,Alana Fogaça,Allana Fogaça,96.0,True
+CUST003359,CUST002985,Anna Liz Lima,Ana Liz Lima,96.0,True
+CUST003654,CUST000699,Caleb Aragão,Calebe Aragão,96.0,True
+CUST001965,CUST004790,Hellena Cunha,Helena Cunha,96.0,True
+CUST004412,CUST001122,Alana Pastor,Allana Pastor,96.0,True
+CUST001224,CUST001712,Allana Garcia,Alana Garcia,96.0,True
+CUST004139,CUST000150,Laura Azevedo,Lara Azevedo,96.0,True
+CUST004362,CUST003149,Luan Pereira,Luana Pereira,96.0,True
+CUST002916,CUST003626,Allana Fogaça,Alana Fogaça,96.0,True
+CUST002817,CUST004242,Ayla Costela,Aylla Costela,96.0,True
+CUST003750,CUST002039,Laura Câmara,Lara Câmara,95.65,True
+CUST003217,CUST000703,Sarah Moraes,Sara Moraes,95.65,True
+CUST002321,CUST004564,Ayla Araújo,Aylla Araújo,95.65,True
+CUST005063,CUST002321,Aylla Araújo,Ayla Araújo,95.65,True
+CUST003625,CUST003629,Maria Souza,Mariah Souza,95.65,True
+CUST000221,CUST004528,José Barros,Josué Barros,95.65,True
+CUST004752,CUST003467,Ester Souza,Esther Souza,95.65,True
+CUST000222,CUST004824,Allana Souza,Alana Souza,95.65,True
+CUST004752,CUST003595,Ester Souza,Esther Souza,95.65,True
+CUST004638,CUST004752,Esther Souza,Ester Souza,95.65,True
+CUST001012,CUST004806,Ester Porto,Esther Porto,95.65,True
+CUST003166,CUST001710,Ester Abreu,Esther Abreu,95.65,True
+CUST001545,CUST000785,Anthony Gabriel Souza,Anthony Gabriel Sousa,95.24,True
+CUST000798,CUST001039,Maria Luiza Rodrigues,Maria Luísa Rodrigues,95.24,True
+CUST001989,CUST002421,Bryan Melo,Brayan Melo,95.24,True
+CUST001545,CUST002288,Anthony Gabriel Souza,Anthony Gabriel Sousa,95.24,True
+CUST000036,CUST001830,Josué Souza,José Souza,95.24,True
+CUST004106,CUST004662,Maria Melo,Mariah Melo,95.24,True
+CUST000490,CUST004130,Maria Vitória Da Mata,Maria Vitória Da Mota,95.24,True
+CUST000651,CUST001071,Laura Sales,Lara Sales,95.24,True
+CUST003832,CUST003846,Sarah Brito,Sara Brito,95.24,True
+CUST001071,CUST001542,Lara Sales,Laura Sales,95.24,True
+CUST003267,CUST000337,Sarah Silva,Sara Silva,95.24,True
+CUST004759,CUST001660,João Guilherme Souza,João Guilherme Sousa,95.0,True
+CUST003194,CUST002071,Ana Luiza Cavalcante,Ana Luiza Cavalcanti,95.0,True
+CUST003194,CUST000303,Ana Luiza Cavalcante,Ana Liz Cavalcante,94.74,True
+CUST002818,CUST003114,Fernando Cavalcante,Fernanda Cavalcante,94.74,True
+CUST004224,CUST003562,Maria Luiza Azevedo,Maria Luísa Azevedo,94.74,True
+CUST004198,CUST004815,Isabella Cavalcante,Isabella Cavalcanti,94.74,True
+CUST002007,CUST004467,Daniela Sá,Daniel Sá,94.74,True
+CUST004309,CUST004119,Dr. Rafael Camargo,Dra. Rafaela Camargo,94.74,True
+CUST001798,CUST003532,Davi Lucca Oliveira,Davi Lucas Oliveira,94.74,True
+CUST001798,CUST001679,Davi Lucca Oliveira,Davi Lucas Oliveira,94.74,True
+CUST001360,CUST001016,Sr. Gustavo Da Mata,Sr. Gustavo Da Mota,94.74,True
+CUST004873,CUST000761,João Gabriel Novaes,João Gabriel Novais,94.74,True
+CUST000374,CUST003114,Fernando Cavalcante,Fernanda Cavalcante,94.74,True
+CUST002895,CUST002632,Maria Liz Mendonça,Maria Luiza Mendonça,94.74,True
+CUST002731,CUST003032,Ana Laura Mendonça,Ana Clara Mendonça,94.44,True
+CUST000649,CUST001048,Julia Vasconcelos,Juliana Vasconcelos,94.44,True
+CUST003983,CUST004272,Davi Lucas Da Mata,Davi Lucca Da Mata,94.44,True
+CUST004764,CUST004272,Davi Lucca Da Mota,Davi Lucca Da Mata,94.44,True
+CUST000631,CUST000988,Mariane Cavalcante,Maria Cavalcante,94.12,True
+CUST004009,CUST002417,Luna Da Conceição,Luan Da Conceição,94.12,True
+CUST000631,CUST000889,Mariane Cavalcante,Maria Cavalcante,94.12,True
+CUST004306,CUST002709,Isabel Das Neves,Isabelly Das Neves,94.12,True
+CUST000403,CUST002267,Breno Casa Grande,Bruno Casa Grande,94.12,True
+CUST002267,CUST003168,Bruno Casa Grande,Bruna Casa Grande,94.12,True
+CUST002424,CUST002499,Rafael Cavalcanti,Rafael Cavalcante,94.12,True
+CUST004666,CUST004968,Ester Sá,Esther Sá,94.12,True
+CUST004009,CUST002418,Luna Da Conceição,Luan Da Conceição,94.12,True
+CUST004240,CUST000539,Srta. Maya Moura,Sra. Maysa Moura,93.75,True
+CUST004327,CUST000505,Mariana Oliveira,Mariane Oliveira,93.75,True
+CUST002011,CUST001296,Daniel Das Neves,Danilo Das Neves,93.75,True
+CUST002583,CUST003853,Emanuella Santos,Emanuelly Santos,93.75,True
+CUST003644,CUST002931,Eduardo Siqueira,Eduarda Siqueira,93.75,True
+CUST003697,CUST000444,Rafael Montenegro,Rael Montenegro,93.75,True
+CUST004745,CUST000846,Isabelly Siqueira,Isabel Siqueira,93.75,True
+CUST002198,CUST002583,Emanuelly Santos,Emanuella Santos,93.75,True
+CUST001620,CUST000110,Davi Lucas Rios,Davi Lucca Rios,93.33,True
+CUST000117,CUST002333,Emanuel Macedo,Emanuelly Macedo,93.33,True
+CUST000117,CUST003214,Emanuel Macedo,Emanuelly Macedo,93.33,True
+CUST004746,CUST004499,Raul Aparecida,Raquel Aparecida,93.33,True
+CUST000931,CUST003794,Isabel Barbosa,Isabelly Barbosa,93.33,True
+CUST002769,CUST004344,Fernanda Da Luz,Fernando Da Luz,93.33,True
+CUST000219,CUST000478,Lunna Fernandes,Luana Fernandes,93.33,True
+CUST002411,CUST003061,Rafael Aparecida,Rael Aparecida,93.33,True
+CUST002384,CUST002185,Bárbara Da Mota,Bárbara Da Mata,93.33,True
+CUST000447,CUST003052,Ana Liz Mendes,Ana Luiza Mendes,93.33,True
+CUST002078,CUST003061,Rafael Aparecida,Rael Aparecida,93.33,True
+CUST004499,CUST003061,Raquel Aparecida,Rael Aparecida,93.33,True
+CUST003243,CUST003282,Vitor Gabriel Da Rosa,Vitor Gabriel Da Rocha,93.02,True
+CUST004746,CUST003061,Raul Aparecida,Rael Aparecida,92.86,True
+CUST004771,CUST003019,Lucas Nogueira,Lucca Nogueira,92.86,True
+CUST002247,CUST001697,Emanuella Melo,Emanuelly Melo,92.86,True
+CUST003821,CUST002248,Gabriel Novaes,Gabriel Novais,92.86,True
+CUST001366,CUST004115,Raul Da Cunha,Raquel Da Cunha,92.86,True
+CUST002247,CUST001767,Emanuella Melo,Emanuelly Melo,92.86,True
+CUST001654,CUST001334,Julia Freitas,Juliana Freitas,92.86,True
+CUST000758,CUST001022,Bruno Ferreira,Bruna Ferreira,92.86,True
+CUST004771,CUST002193,Lucas Nogueira,Lucca Nogueira,92.86,True
+CUST001997,CUST002330,Brayan Da Mata,Brayan Da Mota,92.86,True
+CUST001396,CUST002509,Vitória Da Rosa,Vitor Da Rosa,92.86,True
+CUST003102,CUST002957,Vitor Pimenta,Vitória Pimenta,92.86,True
+CUST003996,CUST003789,Maria Freitas,Mariana Freitas,92.86,True
+CUST001407,CUST004480,Mariane Guerra,Mariana Guerra,92.86,True
+CUST002009,CUST005060,Isabelly Pinto,Isabella Pinto,92.86,True
+CUST003029,CUST002135,Isabelly Santos,Isabel Santos,92.86,True
+CUST002009,CUST002218,Isabelly Pinto,Isabella Pinto,92.86,True
+CUST003802,CUST003839,Sr. Erick Montenegro,Sr. Enrico Montenegro,92.68,True
+CUST000506,CUST001531,Maria Vitória Da Rocha,Maria Vitória Rocha,92.68,True
+CUST000415,CUST003835,Ana Carolina Da Rosa,Ana Carolina Da Rocha,92.68,True
+CUST001446,CUST004536,Gustavo Henrique Sales,Gustavo Henrique Sá,92.68,True
+CUST000124,CUST004536,Gustavo Henrique Silva,Gustavo Henrique Sá,92.68,True
+CUST002242,CUST004298,Luiz Henrique Camargo,Luiz Henrique Câmara,92.68,True
+CUST002013,CUST004536,Gustavo Henrique Sousa,Gustavo Henrique Sá,92.68,True
+CUST001531,CUST000883,Maria Vitória Rocha,Maria Vitória Da Rocha,92.68,True
+CUST000497,CUST002744,José Miguel Da Rocha,José Miguel Da Rosa,92.31,True
+CUST002876,CUST002165,Raquel Da Rosa,Rael Da Rosa,92.31,True
+CUST002683,CUST003578,Julia Aragão,Juliana Aragão,92.31,True
+CUST003852,CUST004515,Maria Borges,Mariane Borges,92.31,True
+CUST003619,CUST004783,Alana Cassiano,Ana Cassiano,92.31,True
+CUST004139,CUST004343,Laura Azevedo,Luara Azevedo,92.31,True
+CUST002236,CUST000794,Luiza Da Rosa,Luísa Da Rosa,92.31,True
+CUST000642,CUST000418,Rael Freitas,Rafael Freitas,92.31,True
+CUST001833,CUST004772,Olívia Novaes,Olívia Novais,92.31,True
+CUST001562,CUST000441,Dr. Vinicius Câmara,Dr. Vinicius Camargo,92.31,True
+CUST000404,CUST001320,Miguel Novais,Miguel Novaes,92.31,True
+CUST000923,CUST001694,Allana Costela,Allana Costa,92.31,True
+CUST001088,CUST003814,Maria Fernanda Rios,Maria Fernanda Ramos,92.31,True
+CUST000965,CUST001300,Maria Helena Farias,Maria Helena Freitas,92.31,True
+CUST003874,CUST004616,Ana Luiza Dias,Ana Liz Dias,92.31,True
+CUST003745,CUST003737,Cauã Nogueira,Cauê Nogueira,92.31,True
+CUST003306,CUST001888,Srta. Stephany Ramos,Srta. Stephany Rios,92.31,True
+CUST003192,CUST003616,Rebeca Costela,Rebeca Costa,92.31,True
+CUST001806,CUST002165,Raquel Da Rosa,Rael Da Rosa,92.31,True
+CUST003192,CUST002334,Rebeca Costela,Rebeca Costa,92.31,True
+CUST000865,CUST000418,Rael Freitas,Rafael Freitas,92.31,True
+CUST001220,CUST000815,Pietra Araújo,Pietro Araújo,92.31,True
+CUST001833,CUST002655,Olívia Novaes,Olívia Novais,92.31,True
+CUST000692,CUST001398,Gabrielly Fernandes,Gabriela Fernandes,91.89,True
+CUST003040,CUST003999,Maria Luísa Rocha,Maria Luísa Da Rocha,91.89,True
+CUST003040,CUST002619,Maria Luísa Rocha,Maria Luísa Da Rocha,91.89,True
+CUST003822,CUST001932,Ana Beatriz Da Costa,Ana Beatriz Costa,91.89,True
+CUST002917,CUST002449,Maria Alice Rocha,Maria Alice Da Rocha,91.89,True
+CUST003605,CUST001061,João Vitor Da Rosa,João Vitor Da Rocha,91.89,True
+CUST004703,CUST000908,Maria Laura Barbosa,Maria Laura Barros,91.89,True
+CUST002080,CUST004351,Asafe Novais,Asafe Novaes,91.67,True
+CUST004959,CUST000514,Bento Moraes,Breno Moraes,91.67,True
+CUST001053,CUST002922,Rael Da Luz,Raquel Da Luz,91.67,True
+CUST004643,CUST001772,Júlia Costa,Julia Costela,91.67,True
+CUST000331,CUST000067,Raquel Campos,Rael Campos,91.67,True
+CUST004206,CUST000331,Raul Campos,Raquel Campos,91.67,True
+CUST003237,CUST002710,Rael Novais,Raquel Novais,91.67,True
+CUST003262,CUST004098,Pietra Souza,Pietra Sousa,91.67,True
+CUST002921,CUST004075,Dante Novais,Dante Novaes,91.67,True
+CUST000285,CUST004075,Dante Novais,Dante Novaes,91.67,True
+CUST002154,CUST001544,Luara Novais,Luara Novaes,91.67,True
+CUST003324,CUST000210,Raul Câmara,Raquel Câmara,91.67,True
+CUST002190,CUST000956,Luiza Da Mata,Liz Da Mata,91.67,True
+CUST003215,CUST002899,Julia Ramos,Juliana Ramos,91.67,True
+CUST002190,CUST002568,Luiza Da Mata,Liz Da Mata,91.67,True
+CUST002154,CUST002898,Luara Novais,Luara Novaes,91.67,True
+CUST000333,CUST001544,Luana Novaes,Luara Novaes,91.67,True
+CUST002156,CUST001335,Lucas Vieira,Lucca Vieira,91.67,True
+CUST004473,CUST000670,Davi Lucas Vasconcelos,Dr. Davi Lucas Vasconcelos,91.67,True
+CUST000333,CUST002898,Luana Novaes,Luara Novaes,91.67,True
+CUST000768,CUST002399,André Novaes,André Novais,91.67,True
+CUST002055,CUST003344,Melina Souza,Melina Sousa,91.67,True
+CUST002055,CUST003020,Melina Souza,Melina Sousa,91.67,True
+CUST004123,CUST002937,Ana Da Cruz,Alana Da Cruz,91.67,True
+CUST003892,CUST000803,Marcela Leão,Marcelo Leão,91.67,True
+CUST000193,CUST002922,Rael Da Luz,Raquel Da Luz,91.67,True
+CUST001417,CUST004366,Ana Clara Da Rosa,Ana Clara Da Rocha,91.43,True
+CUST002499,CUST001974,Rafael Cavalcante,Rafaela Cavalcanti,91.43,True
+CUST004315,CUST002646,Maria Isis Macedo,Maria Isis Machado,91.43,True
+CUST004724,CUST003109,Mariana Nascimento,Mariah Nascimento,91.43,True
+CUST002647,CUST001069,Maria Flor Macedo,Maria Flor Machado,91.43,True
+CUST000304,CUST004800,João Pedro Macedo,João Pedro Machado,91.43,True
+CUST002305,CUST000304,João Pedro Machado,João Pedro Macedo,91.43,True
+CUST000631,CUST001272,Mariane Cavalcante,Mariah Cavalcante,91.43,True
+CUST000992,CUST003464,José Pedro Câmara,José Pedro Camargo,91.43,True
+CUST004724,CUST000208,Mariana Nascimento,Mariah Nascimento,91.43,True
+CUST001112,CUST000879,Srta. Liz Costela,Sra. Luiza Costela,91.43,True
+CUST002969,CUST004265,José Pedro Da Costa,José Pedro Costa,91.43,True
+CUST002969,CUST005062,José Pedro Da Costa,José Pedro Costa,91.43,True
+CUST004856,CUST002530,Anthony Gabriel Da Luz,Anthony Gabriel Da Paz,90.91,True
+CUST004627,CUST002335,Maria Luísa Cavalcanti,Maria Júlia Cavalcanti,90.91,True
+CUST001751,CUST003828,Maria Luísa Montenegro,Maria Laura Montenegro,90.91,True
+CUST004029,CUST003867,Maria Liz Barros,Maria Liz Barbosa,90.91,True
+CUST004158,CUST003716,Yuri Costa,Yuri Costela,90.91,True
+CUST004491,CUST002127,Valentim Costela,Valentina Costela,90.91,True
+CUST002153,CUST002953,Stephany Da Rosa,Stephany Da Rocha,90.91,True
+CUST002153,CUST004137,Stephany Da Rosa,Stephany Da Rocha,90.91,True
+CUST001587,CUST001209,Sra. Ana Carolina Borges,Sra. Carolina Borges,90.91,True
+CUST003405,CUST000439,Alana Cavalcante,Allana Cavalcanti,90.91,True
+CUST001123,CUST002530,Anthony Gabriel Da Luz,Anthony Gabriel Da Paz,90.91,True
+CUST003746,CUST002859,Cauã Moraes,Cauê Moraes,90.91,True
+CUST004117,CUST002800,Liz Santos,Luiza Santos,90.91,True
+CUST004259,CUST004965,Breno Nascimento,Brenda Nascimento,90.91,True
+CUST001454,CUST001393,Ravi Aragão,Ravy Aragão,90.91,True
+CUST004206,CUST000067,Raul Campos,Rael Campos,90.91,True
+CUST003044,CUST004525,Liam Casa Grande,Lívia Casa Grande,90.91,True
+CUST003148,CUST004834,Clara Casa Grande,Cauã Casa Grande,90.91,True
+CUST001968,CUST004074,Raul Fogaça,Rael Fogaça,90.91,True
+CUST001446,CUST000172,Gustavo Henrique Sales,Gustavo Henrique Lopes,90.91,True
+CUST004222,CUST004019,Luna Pastor,Luan Pastor,90.91,True
+CUST004980,CUST004793,Luiz Gustavo Silva,Luiz Gustavo Sá,90.91,True
+CUST000163,CUST000362,Lucas Pinto,Lucca Pinto,90.91,True
+CUST004834,CUST004581,Cauã Casa Grande,Clara Casa Grande,90.91,True
+CUST000406,CUST002530,Anthony Gabriel Da Luz,Anthony Gabriel Da Paz,90.91,True
+CUST001254,CUST004668,Pedro Henrique Vieira,Pedro Henrique Siqueira,90.91,True
+CUST004841,CUST003047,Isabelly Sá,Isabella Sá,90.91,True
+CUST003528,CUST001582,Sr. Gustavo Henrique Ribeiro,Sr. Gustavo Henrique Rios,90.57,True
+CUST000723,CUST001751,Maria Liz Montenegro,Maria Luísa Montenegro,90.48,True
+CUST000390,CUST004943,Sra. Laura Vasconcelos,Sr. Luan Vasconcelos,90.48,True
+CUST000021,CUST001286,Carlos Eduardo Garcia,Carlos Eduardo Farias,90.48,True
+CUST004458,CUST004536,Gustavo Henrique Santos,Gustavo Henrique Sá,90.48,True
+CUST001480,CUST002316,Ana Júlia Albuquerque,Ana Lívia Albuquerque,90.48,True
+CUST003405,CUST003251,Alana Cavalcante,Ayla Cavalcante,90.32,True
+CUST002575,CUST003412,Theodoro Câmara,Theodoro Camargo,90.32,True
+CUST001396,CUST000454,Vitória Da Rosa,Vitória Da Rocha,90.32,True
+CUST000439,CUST001346,Allana Cavalcanti,Ana Cavalcanti,90.32,True
+CUST003202,CUST002936,Gabriela Machado,Gabriela Macedo,90.32,True
+CUST002091,CUST001346,Amanda Cavalcanti,Ana Cavalcanti,90.32,True
+CUST004842,CUST003679,Manuela Da Rocha,Manuela Da Rosa,90.32,True
+CUST004378,CUST001827,Stephany Macedo,Stephany Machado,90.32,True
+CUST000484,CUST002651,Leonardo Silveira,Leonardo Silva,90.32,True
+CUST001535,CUST000058,Benjamin Costa,Benjamin Da Costa,90.32,True
+CUST003339,CUST004231,Anna Liz Araújo,Ana Luiza Araújo,90.32,True
+CUST003991,CUST003321,Luana Cavalcante,Luna Cavalcanti,90.32,True
+CUST004979,CUST004995,Gabriela Vargas,Gabrielly Vargas,90.32,True
+CUST003321,CUST004640,Luna Cavalcanti,Laura Cavalcanti,90.32,True
+CUST004302,CUST000307,Vitor Hugo Montenegro,Vitor Hugo Monteiro,90.0,True
+CUST001213,CUST000623,Theo Alves,Theo Sales,90.0,True
+CUST003194,CUST004100,Ana Luiza Cavalcante,Ana Lívia Cavalcante,90.0,True
+CUST000037,CUST000902,Vitor Gabriel Da Luz,Vitor Gabriel Da Paz,90.0,True
+CUST002402,CUST000307,Vitor Hugo Montenegro,Vitor Hugo Monteiro,90.0,True
+CUST001451,CUST004013,Ana Vitória Silveira,Ana Vitória Oliveira,90.0,True
+CUST001451,CUST001637,Ana Vitória Silveira,Ana Vitória Siqueira,90.0,True
+CUST003194,CUST001682,Ana Luiza Cavalcante,Ana Laura Cavalcante,90.0,True
+CUST003194,CUST001211,Ana Luiza Cavalcante,Ana Julia Cavalcante,90.0,True
+CUST001600,CUST003954,Maria Helena Gonçalves,Maria Helena Alves,90.0,True
+CUST002951,CUST002068,Maria Júlia Teixeira,Maria Luísa Teixeira,90.0,True
+CUST004601,CUST003107,Maria Cecília Moura,Maria Cecília Moreira,90.0,True
+CUST001211,CUST004100,Ana Julia Cavalcante,Ana Lívia Cavalcante,90.0,True
+CUST004420,CUST000950,Luna Gomes,Luan Gomes,90.0,True
+CUST004398,CUST000743,Ravy Souza,Ravy Sousa,90.0,True
+CUST002927,CUST003567,Cauê Viana,Cauã Viana,90.0,True
+CUST001035,CUST001023,Rael Pinto,Raul Pinto,90.0,True
+CUST004398,CUST002749,Ravy Souza,Ravy Sousa,90.0,True
+CUST004391,CUST000253,João Pedro Fernandes,José Pedro Fernandes,90.0,True
+CUST001746,CUST002191,João Miguel Silveira,João Miguel Oliveira,90.0,True
+CUST001746,CUST002781,João Miguel Silveira,João Miguel Siqueira,90.0,True
+CUST001023,CUST004065,Raul Pinto,Rael Pinto,90.0,True
+CUST003849,CUST001004,Rafael Dias,Rael Dias,90.0,True
+CUST004824,CUST002584,Alana Souza,Ana Souza,90.0,True
+CUST004485,CUST004492,Zoe Costela,Zoe Costa,90.0,True

@@ -1,0 +1,5 @@
+coluna,missing_percent,estrategia
+age,5.42,mediana global (38.0)
+income,5.84,"mediana por grupo (state), fallback mediana global"
+satisfaction_score,7.89,mediana global (4.0)
+city,4.93,categoria 'unknown'

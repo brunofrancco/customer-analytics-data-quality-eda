@@ -1,0 +1,6 @@
+etapa,quantidade
+Registros originais (RAW),5250
+Duplicidades completas removidas,60
+Duplicidades por customer_id removidas,120
+Registros após deduplicação determinística,5070
+Candidatos a duplicidade aproximada (apenas investigação),679

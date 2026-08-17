@@ -1,0 +1,2 @@
+coluna,regra,quantidade_invalida,percentual_invalido,estrategia
+age,18 <= age <= 100,77,1.47,Convertido para ausente (NaN) e imputado pela mediana em handle_missing_values

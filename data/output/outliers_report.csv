@@ -1,0 +1,6 @@
+column,q1,q3,iqr,lower_bound,upper_bound,total_records,outlier_count,outlier_percentage
+age,30.0,46.0,16.0,6.0,70.0,5070,27,0.53
+income,2519.0,4497.75,1978.75,-449.125,7465.875,5070,213,4.2
+purchase_count,5.0,9.0,4.0,-1.0,15.0,5070,73,1.44
+total_spent,1133.0,2294.75,1161.75,-609.625,4037.375,5070,153,3.02
+satisfaction_score,3.5,4.5,1.0,2.0,6.0,5070,14,0.28
