@@ -1,4 +1,4 @@
-# Customer Analytics — Data Quality & EDA
+# Customer Analytics - Data Quality & EDA
 
 Projeto de portfólio ponta a ponta em Python: transforma uma base de clientes
 "suja" (proveniente de múltiplos sistemas fictícios) em uma base confiável, e
@@ -11,14 +11,14 @@ Este projeto simula um cenário comum em empresas de médio/grande porte: uma
 base de clientes consolidada a partir de diferentes sistemas (CRM,
 e-commerce, atendimento), cada um com seus próprios padrões de cadastro. O
 resultado é uma base com duplicidades, valores ausentes, categorias
-inconsistentes, formatos numéricos e de data variados, e outliers — exatamente
+inconsistentes, formatos numéricos e de data variados, e outliers, exatamente
 os problemas que um analista ou engenheiro de dados encontra no dia a dia
 antes de qualquer análise ser confiável.
 
 O projeto cobre o fluxo completo: ingestão → profiling → limpeza (data
 wrangling) → deduplicação → validação de qualidade → estatística descritiva →
 detecção de outliers → testes estatísticos → EDA orientada a negócio →
-insights e recomendações — tudo documentado, testado e reproduzível com um
+insights e recomendações, tudo documentado, testado e reproduzível com um
 único comando (`python run_pipeline.py`).
 
 ## Business Problem
