@@ -80,11 +80,11 @@ notebook `01_data_profiling.ipynb` e no relatório
 
 - **Duplicidades**: 60 linhas completamente duplicadas, 120 registros
   duplicados por `Customer ID` (simulando atualizações de outro sistema) e
-  70 registros de "quase duplicidade" — mesma pessoa sob `Customer ID`
+  70 registros de "quase duplicidade" ,mesma pessoa sob `Customer ID`
   diferente, com pequenas variações no nome (`João Silva` / `joao silva` /
   `JOÃO SILVA`).
 - **Valores ausentes**: concentrados em `Age` (~4%), `City` (~5%), `Income`
-  (~6%) e `Satisfaction Score` (~8%) — não em todas as colunas.
+  (~6%) e `Satisfaction Score` (~8%) ,não em todas as colunas.
 - **Categorias inconsistentes**: `Gender` com variantes como `M`, `Masc`,
   `Masculino`, `male`; `State` misturando sigla (`SP`) e nome completo, com e
   sem acentuação (`São Paulo` / `Sao Paulo` / `sp`).
@@ -138,12 +138,12 @@ Destaques de implementação:
 Implementado em `src/deduplication.py`, com três níveis:
 
 1. **Duplicidade completa** (`remove_full_duplicates`): removida com
-   segurança — 60 registros removidos.
+   segurança ,60 registros removidos.
 2. **Duplicidade por `customer_id`** (`deduplicate_by_key`): mantém o
-   registro mais recente por `signup_date` — 120 registros removidos.
+   registro mais recente por `signup_date` ,120 registros removidos.
 3. **Duplicidade aproximada** (`find_fuzzy_duplicates`, via RapidFuzz +
    blocking por letra inicial normalizada): **apenas reportada**, nunca
-   removida automaticamente — 679 pares candidatos exportados para
+   removida automaticamente ,679 pares candidatos exportados para
    `data/output/fuzzy_duplicates_report.csv`, para revisão manual.
 
 Resultado: **5.070 clientes únicos** na base processada (`customer_id` 100%
@@ -163,7 +163,7 @@ resultados em `data/output/statistical_tests.csv` (α = 0.05):
 | Spearman | purchase_count × total_spent | 0.748 | <0.001 | H0 rejeitada |
 | Spearman | satisfaction_score × total_spent | 0.001 | 0.925 | H0 não rejeitada |
 | Spearman | age × total_spent | 0.068 | <0.001 | H0 rejeitada |
-| Mann-Whitney U | satisfaction (Medium vs Low) × purchase_count | — | 0.961 | H0 não rejeitada |
+| Mann-Whitney U | satisfaction (Medium vs Low) × purchase_count | ,| 0.961 | H0 não rejeitada |
 | ANOVA | income por customer_segment | 0.933 | 0.394 | H0 não rejeitada |
 | T-Test (Welch) | total_spent por gender | -0.565 | 0.572 | H0 não rejeitada |
 
@@ -329,7 +329,7 @@ pytest
 ```
 
 Os notebooks podem ser abertos diretamente com Jupyter (`jupyter lab
-notebooks/`) — eles já contêm as saídas da última execução, mas também podem
+notebooks/`) ,eles já contêm as saídas da última execução, mas também podem
 ser re-executados a qualquer momento (`Kernel > Restart & Run All`).
 
 ## Results
