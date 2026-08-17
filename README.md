@@ -1,4 +1,4 @@
-# Customer Analytics Data Quality & EDA
+# Customer Analytics - Data Quality & EDA
 
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/brunofrancco/customer-analytics-data-quality-eda)
