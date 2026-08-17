@@ -1,6 +1,6 @@
-# Customer Analytics — Data Quality & EDA
+# Customer Analytics Data Quality & EDA
 
-[![CI](https://github.com/brunofrancco/customer-analytics-data-quality-eda/actions/workflows/ci.yml/badge.svg)](https://github.com/brunofrancco/customer-analytics-data-quality-eda/actions/workflows/ci.yml)
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/brunofrancco/customer-analytics-data-quality-eda)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
