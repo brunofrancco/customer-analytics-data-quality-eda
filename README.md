@@ -102,7 +102,7 @@ notebook `01_data_profiling.ipynb` e no relatório
 **Data Quality Score medido**: **89.4/100** na base bruta → **100.0/100**
 após o pipeline de limpeza (ver `data/output/data_quality_report_raw.csv` vs.
 `data_quality_report.csv`). As métricas mais críticas na base bruta eram
-`consistency_gender_categories` (1.1%) e `consistency_state_format` (42.3%) —
+`consistency_gender_categories` (1.1%) e `consistency_state_format` (42.3%),
 exatamente os problemas de padronização de categorias tratados no pipeline.
 
 ## Data Wrangling
@@ -192,7 +192,7 @@ Business Impact: decisões baseadas só em Pearson podem concluir, errado, que
 renda não importa para o gasto.
 
 **2. Frequência de compra é o motor do gasto total, muito mais que a renda.**
-Evidence: Spearman entre `purchase_count` e `total_spent` ≈ 0.75 (p<0.001) —
+Evidence: Spearman entre `purchase_count` e `total_spent` ≈ 0.75 (p<0.001),
 a correlação mais forte observada no projeto.
 Business Impact: campanhas de recorrência tendem a ter mais impacto no gasto
 total do que segmentação por renda.
